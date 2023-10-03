@@ -6,10 +6,10 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Consolas', sans-serif;
   line-height: 1.5;
-  background: #F2F2F2;
-  color: #323232;
+  background: #a9bdff;
+  color: #000000;
 }
 
 img {
@@ -63,7 +63,7 @@ section:last-child {
 ***********************************/
 
 img.avatar {
-  width: 130px;
+  width: 100 px;
 }
 
 .my-name {
